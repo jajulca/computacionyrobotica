@@ -1,2 +1,0 @@
-# computacionyrobotica
-Recopilación. WEB. EXE
